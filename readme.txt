@@ -21,3 +21,7 @@ epochs: 90000
 [0 1] [0.99737647]
 [1 0] [0.99595923]
 [1 1] [0.00021855]
+
+REF:
+
+https://www.bogotobogo.com/python/python_Neural_Networks_Backpropagation_for_XOR_using_one_hidden_layer.php
